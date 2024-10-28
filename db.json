@@ -1,123 +1,123 @@
 {
-  "products": [
-    {
-      "id": 6832242294878,
-      "title": "The Collection Snowboard: Liquid",
-      "variants": [
+    "products": [
         {
-          "id": 41243211399262,
-          "title": "Medium / Blue",
-          "option1": "Medium",
-          "option2": "Blue",
-          "option3": null,
-          "featured_image": null,
-          "available": true,
-          "price": "749.95",
-          "compare_at_price": null,
-          "position": 2,
-          "product_id": 6832242294878
+            "id": 6832242294878,
+            "title": "The Collection Snowboard: Liquid",
+            "variants": [
+                {
+                    "id": 41243211399262,
+                    "title": "Medium / Blue",
+                    "option1": "Medium",
+                    "option2": "Blue",
+                    "option3": null,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "749.95",
+                    "compare_at_price": null,
+                    "position": 2,
+                    "product_id": 6832242294878
+                }
+            ],
+            "images": [
+                {
+                    "id": 29962110795870,
+                    "product_id": 6832242294878,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1696860662",
+                    "width": 1600,
+                    "height": 1600
+                }
+            ]
+        },
+        {
+            "id": 6832242196574,
+            "title": "The 3p Fulfilled Snowboard",
+            "variants": [
+                {
+                    "id": 41243206516830,
+                    "title": "Red",
+                    "option1": "Red",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "sku-hosted-1",
+                    "featured_image": null,
+                    "available": true,
+                    "price": "2629.95",
+                    "compare_at_price": "2890.00",
+                    "position": 2,
+                    "product_id": 6832242196574
+                },
+                {
+                    "id": 41243206549598,
+                    "title": "Black",
+                    "option1": "Black",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "sku-hosted-2",
+                    "featured_image": null,
+                    "available": false,
+                    "price": "2629.95",
+                    "compare_at_price": "2890.00",
+                    "position": 3,
+                    "product_id": 6832242196574
+                },
+                {
+                    "id": 41243206582366,
+                    "title": "Green",
+                    "option1": "Green",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "sku-hosted-3",
+                    "featured_image": null,
+                    "available": false,
+                    "price": "2629.95",
+                    "compare_at_price": "2890.00",
+                    "position": 4,
+                    "product_id": 6832242196574
+                },
+                {
+                    "id": 41243206615134,
+                    "title": "Blue",
+                    "option1": "Blue",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "sku-hosted-4",
+                    "featured_image": null,
+                    "available": false,
+                    "price": "2629.95",
+                    "compare_at_price": "2890.00",
+                    "position": 5,
+                    "product_id": 6832242196574
+                }
+            ],
+            "images": [
+                {
+                    "id": 29962110632030,
+                    "product_id": 6832242196574,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_b9e0da7f-db89-4d41-83f0-7f417b02831d.jpg?v=1696860659",
+                    "width": 1600,
+                    "height": 1600
+                },
+                {
+                    "id": 31502080442462,
+                    "position": 2,
+                    "product_id": 6832242196574,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1729963206",
+                    "width": 1600,
+                    "height": 1600
+                },
+                {
+                    "id": 31502080475230,
+                    "position": 3,
+                    "product_id": 6832242196574,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg?v=1729963206",
+                    "width": 1600,
+                    "height": 1600
+                }
+            ]
         }
-      ],
-      "images": [
-        {
-          "id": 29962110795870,
-          "product_id": 6832242294878,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1696860662",
-          "width": 1600,
-          "height": 1600
-        }
-      ]
-    },
-    {
-      "id": 6832242196574,
-      "title": "The 3p Fulfilled Snowboard",
-      "variants": [
-        {
-          "id": 41243206516830,
-          "title": "Red",
-          "option1": "Red",
-          "option2": null,
-          "option3": null,
-          "sku": "sku-hosted-1",
-          "featured_image": null,
-          "available": true,
-          "price": "2629.95",
-          "compare_at_price": "2890.00",
-          "position": 2,
-          "product_id": 6832242196574
-        },
-        {
-          "id": 41243206549598,
-          "title": "Black",
-          "option1": "Black",
-          "option2": null,
-          "option3": null,
-          "sku": "sku-hosted-2",
-          "featured_image": null,
-          "available": false,
-          "price": "2629.95",
-          "compare_at_price": "2890.00",
-          "position": 3,
-          "product_id": 6832242196574
-        },
-        {
-          "id": 41243206582366,
-          "title": "Green",
-          "option1": "Green",
-          "option2": null,
-          "option3": null,
-          "sku": "sku-hosted-3",
-          "featured_image": null,
-          "available": false,
-          "price": "2629.95",
-          "compare_at_price": "2890.00",
-          "position": 4,
-          "product_id": 6832242196574
-        },
-        {
-          "id": 41243206615134,
-          "title": "Blue",
-          "option1": "Blue",
-          "option2": null,
-          "option3": null,
-          "sku": "sku-hosted-4",
-          "featured_image": null,
-          "available": false,
-          "price": "2629.95",
-          "compare_at_price": "2890.00",
-          "position": 5,
-          "product_id": 6832242196574
-        }
-      ],
-      "images": [
-        {
-          "id": 29962110632030,
-          "product_id": 6832242196574,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/products/Main_b9e0da7f-db89-4d41-83f0-7f417b02831d.jpg?v=1696860659",
-          "width": 1600,
-          "height": 1600
-        },
-        {
-          "id": 31502080442462,
-          "position": 2,
-          "product_id": 6832242196574,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1729963206",
-          "width": 1600,
-          "height": 1600
-        },
-        {
-          "id": 31502080475230,
-          "position": 3,
-          "product_id": 6832242196574,
-          "variant_ids": [],
-          "src": "https://cdn.shopify.com/s/files/1/0549/2126/5246/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg?v=1729963206",
-          "width": 1600,
-          "height": 1600
-        }
-      ]
-    }
-  ]
+    ]
 }
